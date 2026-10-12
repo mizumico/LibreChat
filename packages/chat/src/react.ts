@@ -95,3 +95,5 @@ export type { ConvertibleSteer, SteerConvertOptions } from './react/steering/use
 export { default as useSteerEscalate } from './react/steering/useSteerEscalate';
 export type { EscalateTarget } from './react/steering/useSteerEscalate';
 export { resolveAcknowledgedSteer } from './react/steering/chips';
+export { ReactQueryChatState } from './react/state';
+export type { ReactQueryChatStateOptions } from './react/state';
